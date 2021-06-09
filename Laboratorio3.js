@@ -1,3 +1,5 @@
+// Hacer todos los cambios en el codigo para la practica. Esto es un esquema que se puede seguir. Esta sacado de la practica hecha en el video 2 del laboratorio 3
+
 const product = {
     count: 3,
     price: 12.55,
